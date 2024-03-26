@@ -9,7 +9,7 @@ int isPrime(int n) {
     return 1;    
 }
 int main() {
-    int a = 5;
+    int a = 100;
     int sum = 0;
     for (int i = 2; i <= a; i++)
     {
